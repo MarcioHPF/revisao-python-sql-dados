@@ -1,4 +1,4 @@
-# Intensivão Python, SQL e Análise de Dados
+# Revisão Python, SQL e Análise de Dados
 
 Este repositório contém minha jornada de estudos intensivos em Python, SQL, Análise de Dados e Ferramentas para Ciência de Dados. O objetivo é construir uma base sólida de programação e análise de dados, culminando em projetos práticos e um portfólio profissional.
 
